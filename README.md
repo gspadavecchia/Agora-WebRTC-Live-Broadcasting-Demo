@@ -1,7 +1,7 @@
 ## Agora-WebRTC-Live-Broadcasting-Demo
 Sample communications demo app built using Agora WebRTC SDK v2.1.1
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jamfang/Agora-WebRTC-Live-Broadcasting-Demo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gspadavecchia/Agora-WebRTC-Live-Broadcasting-Demo)
 
 Simply click the link above, and put in your App ID and App Certificate
 
